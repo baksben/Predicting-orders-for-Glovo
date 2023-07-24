@@ -7,5 +7,9 @@ The project is simplified to forecasting the number of orders for just one city.
 
 # Step-by-step
 * Feature generation: Features are created that can be used in the EDA, like time, day, day_of_the_week, month, season.
-* Graphs and EDAs: Here we find out certain questions. what time of the day and week has the most order.
+* Graphs and EDAs: Here we find out certain questions.
+  - What time of the day and week has the most order.
   
+<img align="centre" width="500" height="500" src="https://github.com/baksben/Predicting-orders-for-Glovo/blob/main/output.png">
+We can see that there seems to be an accumulation of high orders at 21:00 everyday, with the highest day on friday folllowed by saturday. This is around the time people get off work, and might be too late to do some groceries, or cook and want to buy a takeaway.
+  - Which month has the most order? which season?
