@@ -16,3 +16,6 @@ We can see that there seems to be an accumulation of high orders at 21:00 everyd
   - Which month has the most order? which season?
 <img align="centre" width="500" height="500" src="https://github.com/baksben/Predicting-orders-for-Glovo/blob/main/output_1.png">
 We can clearly see that winter (december to january) has the most orders. People might be too cold and too lazy to go out. 
+* Detect for outliers: In this process, we delve into the data to determine the existence of outliers and their potential implications. The presence of outliers doesn't necessarily imply inaccuracies or errors in the data. In our context, it could indicate days with unusually high sales, perhaps due to holidays, discounts, or other special events.
+<img align="centre" width="500" height="300" src="https://github.com/baksben/Predicting-orders-for-Glovo/blob/main/output_2.png">
+We can see that March, July and August most have either had a crazy amount of sales or a mistake in input. 
