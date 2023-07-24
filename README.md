@@ -33,4 +33,9 @@ The result of the analysis shows the test statistic value of -10.4. The more neg
 In our analysis we used SARIMA model. We defined the SARIMA model to try and iterated over the SARIMA orders. After which we predict the next week's order, evaluate and sort our best model based on the best our results as shown below.  
 <img align="centre" width="500" height="400" src="https://github.com/baksben/Predicting-orders-for-Glovo/blob/main/output_4.png">
 
+Best Model: SARIMAX_(0, 0, 2)_(1, 0, 1, 24).
+MSE: 2352.9623852561895.
 
+Below is the result of our best model.
+
+<img align="centre" width="500" height="400" src="https://github.com/baksben/Predicting-orders-for-Glovo/blob/main/output_5.png">
