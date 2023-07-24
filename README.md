@@ -12,4 +12,7 @@ The project is simplified to forecasting the number of orders for just one city.
   
 <img align="centre" width="500" height="500" src="https://github.com/baksben/Predicting-orders-for-Glovo/blob/main/output.png">
 We can see that there seems to be an accumulation of high orders at 21:00 everyday, with the highest day on friday folllowed by saturday. This is around the time people get off work, and might be too late to do some groceries, or cook and want to buy a takeaway.
+
   - Which month has the most order? which season?
+<img align="centre" width="500" height="500" src="https://github.com/baksben/Predicting-orders-for-Glovo/blob/main/output_1.png">
+We can clearly see that winter (december to january) has the most orders. People might be too cold and too lazy to go out. 
